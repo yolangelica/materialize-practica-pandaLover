@@ -1,7 +1,17 @@
 .body{
 	margin: 0;
 }
+.row{
+	margin:0;
+}
 
+.row .col{
+	padding: 0;
+}
+
+img{
+	vertical-align: top;
+}
 body {
 	margin:0px;
 	font-family: 'Roboto', sans-serif;
@@ -19,10 +29,7 @@ body {
 
 }
 .img1{
-	background-image: url(../img/uno.jpg);
-	background-size:100%;
-	background-repeat: no-repeat;
-	height: 50em;
+	width: 100%;
 	
 }
 
