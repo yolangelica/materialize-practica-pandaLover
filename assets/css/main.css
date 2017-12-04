@@ -1,0 +1,67 @@
+.body{
+	margin: 0;
+}
+
+body {
+	margin:0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+/*AJUSTA TAMAÑO IMAGENES PRINCIPALES*/
+.containerNav{
+	background-color: #F78E69;
+	color:#FFF;
+
+}
+
+.containerNav h5{
+	padding-right: 1em;
+
+}
+.img1{
+	background-image: url(../img/uno.jpg);
+	background-size:100%;
+	background-repeat: no-repeat;
+	height: 50em;
+	
+}
+
+.first-section{
+	background-color: #ABE188;
+	border-top: 1em solid #F78E69;
+	border-bottom: 1em solid #F78E69;
+	padding-top:4em;
+	padding-bottom: 4em;
+}
+
+.img2{
+	background-image:url(../img/dos.jpg);
+	max-width: 100%;
+	height:100vh;
+	background-repeat:no-repeat;
+}
+
+.photo-4pandas{
+	background:#ABE188;
+	padding:6em 0;
+	border-top: 1em solid #F78E69;
+	border-bottom: 1em solid #F78E69;
+}
+.border-panda{
+
+	border:10px solid white;
+}
+
+.img3{
+	background-image: url(../img/tres.jpg);
+	background-size:100%;
+	height:70vh;
+	background-repeat:no-repeat;
+
+
+}
+
+.container-footer{
+	background-color: #F78E69;
+	color: #FFF;
+}
